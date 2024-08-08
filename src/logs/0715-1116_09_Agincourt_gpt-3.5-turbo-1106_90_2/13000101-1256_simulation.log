@@ -1,0 +1,12 @@
+1300-01-01 12:56: Time advanced - 2
+1300-01-01 12:56: country_F ARMY-82201706 executed Reposition Forces Reposition our forces to a more advantageous position to counter the enemy's skirmish tactics and prepare for a coordinated assault. - This level 1 country_F unit is In Battle. It is at [35, -55]. It initially has 35000 soldiers, out of which 0 were deployed. 0 troops have been lost, and 35000 are still remaining.'
+1300-01-01 12:56: country_E ARMY-2cc685e9 executed Initiate Skirmish Initiate a strategic attack to disrupt and weaken the enemy before close combat. - This level 1 country_E unit is In Battle. It is at [0, 440]. It initially has 6500 soldiers, out of which 0 were deployed. 0 troops have been lost, and 6500 are still remaining.'
+1300-01-01 12:56: War Situation and Decision - country_F War Situation - Total Agents: 1, Command Structure Impact: 0, Morale Collapse Impact: 0, Heavy Casualties: 0.0, Total Troops: 35000
+1300-01-01 12:56: War Situation and Decision - country_E War Situation - Total Agents: 1, Command Structure Impact: 0, Morale Collapse Impact: 0, Heavy Casualties: 0.0, Total Troops: 6500
+1300-01-01 12:56: Simulation step completed - Step 28
+1300-01-01 12:56: Tree Structure Logged - Tree Structure for country_E:
+ARMY-2cc685e9
+
+1300-01-01 12:56: Tree Structure Logged - Tree Structure for country_F:
+ARMY-82201706
+

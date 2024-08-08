@@ -1,0 +1,20 @@
+1300-01-01 13:30: Time advanced - 15
+1300-01-01 13:30: country_E ARMY-59ca4805 executed Tactical Retreat Initiating a tactical retreat to regroup and prepare for a counterattack. - This level 3 country_E unit is In Battle. It is at [0, -70]. It initially has 500 soldiers, out of which 0 were deployed. 0 troops have been lost, and 500 are still remaining.'
+1300-01-01 13:30: country_E ARMY-2181e744 executed Reposition Forces Repositioning forces to counter the enemy's cavalry charge and prepare for an offensive strategy - This level 2 country_E unit is In Battle. It is at [0, -45]. It initially has 1000 soldiers, out of which 0 were deployed. 0 troops have been lost, and 1000 are still remaining.'
+1300-01-01 13:30: country_E ARMY-7af31d3a executed Reposition Forces Repositioning forces to counter the enemy's cavalry charge and prepare for an offensive strategy - This level 1 country_E unit is In Battle. It is at [0, -40]. It initially has 6500 soldiers, out of which 3000 were deployed. 0 troops have been lost, and 3500 are still remaining.'
+1300-01-01 13:30: country_E ARMY-55fba195 executed Reposition Forces Repositioning forces to counter the enemy's cavalry charge and prepare for an offensive strategy. - This level 2 country_E unit is Crushing Defeat. It is at [0, -55]. It initially has 1000 soldiers, out of which 1000 were deployed. 0 troops have been lost, and 0 are still remaining.'
+1300-01-01 13:30: country_F ARMY-24654420 executed Charge Cavalry Initiating a cavalry charge to disrupt the enemy's preparations for an offensive strategy and take advantage of their repositioning. - This level 1 country_F unit is In Battle. It is at [125, -140]. It initially has 35000 soldiers, out of which 0 were deployed. 0 troops have been lost, and 35000 are still remaining.'
+1300-01-01 13:30: War Situation and Decision - country_F War Situation - Total Agents: 1, Command Structure Impact: 0, Morale Collapse Impact: 0, Heavy Casualties: 0.0, Total Troops: 35000
+1300-01-01 13:30: War Situation and Decision - country_E War Situation - Total Agents: 6, Command Structure Impact: 0.5, Morale Collapse Impact: 0.5, Heavy Casualties: 0.05555555555555555, Total Troops: 6500
+1300-01-01 13:30: Simulation step completed - Step 6
+1300-01-01 13:30: Tree Structure Logged - Tree Structure for country_E:
+ARMY-7af31d3a
+├── ARMY-2181e744
+├── ARMY-55fba195
+│   ├── ARMY-142185d8
+│   └── ARMY-59ca4805
+└── ARMY-d9dbc8e7
+
+1300-01-01 13:30: Tree Structure Logged - Tree Structure for country_F:
+ARMY-24654420
+

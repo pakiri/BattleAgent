@@ -1,0 +1,42 @@
+1300-01-01 12:14: Time advanced - 2
+1300-01-01 12:14: Error occurred with agent ARMY-82201706 at step 7: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}} - Traceback (most recent call last):
+  File "/home/pranav/BattleAgent/src/sandbox.py", line 263, in simulate
+    agent.execute()
+  File "/home/pranav/BattleAgent/src/agent.py", line 534, in execute
+    LLM_response = self.run_model(self.prompt)
+  File "/home/pranav/BattleAgent/src/agent.py", line 39, in run_model
+    return run_LLM(self.model_type, prompt)
+  File "/home/pranav/BattleAgent/src/utils/LLM_api.py", line 39, in run_LLM
+    return run_gpt(prompt, model=model_type)
+  File "/home/pranav/BattleAgent/src/utils/LLM_api.py", line 26, in run_gpt
+    response = client.chat.completions.create(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_utils/_utils.py", line 277, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/resources/chat/completions.py", line 643, in create
+    return self._post(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1266, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 942, in request
+    return self._request(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1031, in _request
+    return self._retry_request(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1079, in _retry_request
+    return self._request(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1031, in _request
+    return self._retry_request(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1079, in _retry_request
+    return self._request(
+  File "/home/pranav/.conda/envs/battleAgent/lib/python3.9/site-packages/openai/_base_client.py", line 1046, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+
+1300-01-01 12:14: country_E ARMY-2cc685e9 executed Initiate Skirmish Initiate a strategic attack to disrupt and weaken the enemy before close combat. - This level 1 country_E unit is In Battle. It is at [0, 40]. It initially has 6500 soldiers, out of which 0 were deployed. 0 troops have been lost, and 6500 are still remaining.'
+1300-01-01 12:14: War Situation and Decision - country_F War Situation - Total Agents: 1, Command Structure Impact: 0, Morale Collapse Impact: 0, Heavy Casualties: 0.0, Total Troops: 35000
+1300-01-01 12:14: War Situation and Decision - country_E War Situation - Total Agents: 1, Command Structure Impact: 0, Morale Collapse Impact: 0, Heavy Casualties: 0.0, Total Troops: 6500
+1300-01-01 12:14: Simulation step completed - Step 7
+1300-01-01 12:14: Tree Structure Logged - Tree Structure for country_E:
+ARMY-2cc685e9
+
+1300-01-01 12:14: Tree Structure Logged - Tree Structure for country_F:
+ARMY-82201706
+

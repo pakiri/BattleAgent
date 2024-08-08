@@ -1,0 +1,78 @@
+1300-01-01 12:40: Time advanced - 10
+1300-01-01 12:40: country_E ARMY-eaf7a035 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 2 country_E unit is In Battle. It is at [0, -80]. It initially has 500 soldiers, out of which 100 were deployed. 0 troops have been lost, and 400 are still remaining.'
+1300-01-01 12:40: country_F ARMY-0224a5d8 executed Reposition Forces Repositioning forces to a strategic position to prepare for the enemy's attack. - This level 2 country_F unit is Crushing Defeat. It is at [60, -40]. It initially has 1000 soldiers, out of which 900 were deployed. 100 troops have been lost, and 0 are still remaining.'
+1300-01-01 12:40: country_F ARMY-fde77527 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 3 country_F unit is Crushing Defeat. It is at [40, -20]. It initially has 100 soldiers, out of which 80 were deployed. 20 troops have been lost, and 0 are still remaining.'
+1300-01-01 12:40: Action Interaction Evaluation -  country_E agent ARMY-7c8742e3 lost 14. country_F agent ARMY-374cd523 lost 175.
+1300-01-01 12:40: country_E ARMY-c0ba0450 executed Deploy Longbows Advancing towards the enemy to deploy longbows and disrupt their preparations. - This level 4 country_E unit is Crushing Defeat. It is at [0, -60]. It initially has 70 soldiers, out of which 70 were deployed. 0 troops have been lost, and 0 are still remaining.'
+1300-01-01 12:40: country_E ARMY-82fcd649 executed Construct Defenses We will construct defenses to fortify our position and prepare for the enemy's attack. - This level 2 country_E unit is In Battle. It is at [0, -60]. It initially has 200 soldiers, out of which 0 were deployed. 0 troops have been lost, and 200 are still remaining.'
+1300-01-01 12:40: country_E ARMY-eb578259 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 2 country_E unit is In Battle. It is at [0, -60]. It initially has 500 soldiers, out of which 200 were deployed. 60 troops have been lost, and 240 are still remaining.'
+1300-01-01 12:40: country_E ARMY-527b2f65 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 3 country_E unit is In Battle. It is at [0, -60]. It initially has 100 soldiers, out of which 0 were deployed. 0 troops have been lost, and 100 are still remaining.'
+1300-01-01 12:40: country_E ARMY-a5341a32 executed Reposition Forces Moving to a strategic position to prepare for the enemy's attack. - This level 1 country_E unit is In Battle. It is at [0, -80]. It initially has 6500 soldiers, out of which 4400 were deployed. 0 troops have been lost, and 2100 are still remaining.'
+1300-01-01 12:40: country_F ARMY-8ed1878a executed Reposition Forces Moving to a strategic position to prepare for the enemy's attack. - This level 1 country_F unit is In Battle. It is at [20, -30]. It initially has 35000 soldiers, out of which 3400 were deployed. 0 troops have been lost, and 31600 are still remaining.'
+1300-01-01 12:40: Action Interaction Evaluation -  country_E agent ARMY-ff77e9a8 lost 50. country_F agent ARMY-1f0ef7cd lost 2.
+1300-01-01 12:40: country_E ARMY-ce76f9fb executed Initiate Skirmish Initiating a skirmish to disrupt the enemy's longbow deployment and weaken their forces. - This level 2 country_E unit is In Battle. It is at [0, -60]. It initially has 1000 soldiers, out of which 200 were deployed. 0 troops have been lost, and 800 are still remaining.'
+1300-01-01 12:40: country_E ARMY-a41f5575 executed Deploy Longbows We will deploy longbows to disrupt the enemy's preparations and weaken their forces before close combat. - This level 2 country_E unit is In Battle. It is at [0, -60]. It initially has 1000 soldiers, out of which 400 were deployed. 0 troops have been lost, and 600 are still remaining.'
+1300-01-01 12:40: country_E ARMY-3135d936 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 3 country_E unit is In Battle. It is at [0, -60]. It initially has 100 soldiers, out of which 25 were deployed. 25 troops have been lost, and 50 are still remaining.'
+1300-01-01 12:40: country_F ARMY-374cd523 executed Launch Full Assault Initiating a full assault on the enemy to disrupt their preparations and gain the upper hand in the battle. - This level 2 country_F unit is Crushing Defeat. It is at [30, -40]. It initially has 1000 soldiers, out of which 1000 were deployed. 175 troops have been lost, and -175 are still remaining.'
+1300-01-01 12:40: country_F ARMY-9c5807ed executed Reposition Forces Repositioning forces to a strategic position to prepare for the enemy's attack. - This level 3 country_F unit is In Battle. It is at [25, -15]. It initially has 100 soldiers, out of which 40 were deployed. 20 troops have been lost, and 40 are still remaining.'
+1300-01-01 12:40: country_F ARMY-501368cf executed Construct Defenses We will construct defenses to fortify our position and prepare for the enemy's attack. - This level 2 country_F unit is In Battle. It is at [20, -20]. It initially has 200 soldiers, out of which 0 were deployed. 0 troops have been lost, and 200 are still remaining.'
+1300-01-01 12:40: country_F ARMY-4bf84f54 executed Construct Defenses We will construct defenses to fortify our position and prepare for the enemy's attack. - This level 2 country_F unit is In Battle. It is at [20, -30]. It initially has 200 soldiers, out of which 0 were deployed. 0 troops have been lost, and 200 are still remaining.'
+1300-01-01 12:40: country_F ARMY-cb79fdf2 executed Cavalry Charge Initiating a cavalry charge to engage the enemy forces and disrupt their formations. - This level 3 country_F unit is In Battle. It is at [30, -10]. It initially has 500 soldiers, out of which 0 were deployed. 0 troops have been lost, and 500 are still remaining.'
+1300-01-01 12:40: country_F ARMY-ad665708 executed Cavalry Charge Initiating a cavalry charge to engage the enemy forces and disrupt their formations. - This level 3 country_F unit is In Battle. It is at [30, -30]. It initially has 500 soldiers, out of which 0 were deployed. 0 troops have been lost, and 500 are still remaining.'
+1300-01-01 12:40: country_F ARMY-af870397 executed Launch Full Assault Initiating a full assault to disrupt the enemy's longbow deployment and weaken their forces. - This level 2 country_F unit is In Battle. It is at [20, -30]. It initially has 500 soldiers, out of which 200 were deployed. 128 troops have been lost, and 172 are still remaining.'
+1300-01-01 12:40: country_E ARMY-9e6d665f executed Cavalry Charge Initiating a cavalry charge to engage the enemy forces and disrupt their formations. - This level 3 country_E unit is In Battle. It is at [0, -60]. It initially has 200 soldiers, out of which 0 were deployed. 60 troops have been lost, and 140 are still remaining.'
+1300-01-01 12:40: Action Interaction Evaluation -  country_E agent ARMY-b3e77f56 lost 40. country_F agent ARMY-af870397 lost 43.
+1300-01-01 12:40: country_E ARMY-19aa0576 executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 2 country_E unit is In Battle. It is at [0, -80]. It initially has 500 soldiers, out of which 300 were deployed. 75 troops have been lost, and 125 are still remaining.'
+1300-01-01 12:40: country_E ARMY-87b071a1 executed Construct Defenses We will construct defenses to fortify our position and prepare for the enemy's attack. - This level 2 country_E unit is In Battle. It is at [0, -80]. It initially has 200 soldiers, out of which 0 were deployed. 0 troops have been lost, and 200 are still remaining.'
+1300-01-01 12:40: Action Interaction Evaluation -  country_F agent ARMY-857fd07d lost 15. country_E agent ARMY-eb578259 lost 24.
+1300-01-01 12:40: country_F ARMY-fd81e051 executed Reposition Forces Repositioning forces to a strategic position to prepare for the enemy's attack. - This level 2 country_F unit is In Battle. It is at [60, -30]. It initially has 500 soldiers, out of which 200 were deployed. 0 troops have been lost, and 300 are still remaining.'
+1300-01-01 12:40: Action Interaction Evaluation -  country_F agent ARMY-7d659cb2 lost 3. country_E agent ARMY-eaf7a035 lost 60.
+1300-01-01 12:40: country_F ARMY-1f0ef7cd executed Deploy Longbows Advancing towards the enemy to deploy longbows and counter their forces. - This level 4 country_F unit is Crushing Defeat. It is at [25, -15]. It initially has 20 soldiers, out of which 18 were deployed. 2 troops have been lost, and 0 are still remaining.'
+1300-01-01 12:40: War Situation and Decision - country_F War Situation - Total Agents: 19, Command Structure Impact: 1.5833333333333333, Morale Collapse Impact: 1.5833333333333333, Heavy Casualties: 0.04824561403508771, Total Troops: 34494
+1300-01-01 12:40: War Situation and Decision - country_E War Situation - Total Agents: 21, Command Structure Impact: 0.5833333333333333, Morale Collapse Impact: 0.5833333333333333, Heavy Casualties: 0.006802721088435374, Total Troops: 6062
+1300-01-01 12:40: Ceasefire/Surrender Decision - Ceasefire/Surrender Decisions: country_F forces decision: Breakdown of Command Structure. 
+1300-01-01 12:40: Simulation step completed - Step 4
+1300-01-01 12:40: Tree Structure Logged - Tree Structure for country_E:
+ARMY-a5341a32
+├── ARMY-19aa0576
+│   ├── ARMY-3135d936
+│   │   └── ARMY-eba3e974
+│   ├── ARMY-852149eb
+│   │   └── ARMY-c0ba0450
+│   │       └── ARMY-7c8742e3
+│   └── ARMY-b3e77f56
+├── ARMY-732f4095
+├── ARMY-82fcd649
+├── ARMY-87b071a1
+├── ARMY-a41f5575
+│   ├── ARMY-9e6d665f
+│   └── ARMY-ab1c87a6
+├── ARMY-ce76f9fb
+│   └── ARMY-ff77e9a8
+├── ARMY-eaf7a035
+│   └── ARMY-d5bd499b
+└── ARMY-eb578259
+    ├── ARMY-527b2f65
+    └── ARMY-b85c8b24
+
+1300-01-01 12:40: Tree Structure Logged - Tree Structure for country_F:
+ARMY-8ed1878a
+├── ARMY-0224a5d8
+│   ├── ARMY-119be677
+│   └── ARMY-cb79fdf2
+├── ARMY-374cd523
+│   ├── ARMY-7015b9bd
+│   └── ARMY-ad665708
+├── ARMY-4bf84f54
+├── ARMY-501368cf
+├── ARMY-af870397
+│   ├── ARMY-5b697b3e
+│   └── ARMY-9c5807ed
+│       ├── ARMY-1f0ef7cd
+│       │   └── ARMY-7d659cb2
+│       └── ARMY-b2147b14
+└── ARMY-fd81e051
+    ├── ARMY-857fd07d
+    └── ARMY-fde77527
+        └── ARMY-a9313e2e
+

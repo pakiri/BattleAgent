@@ -35,7 +35,9 @@ def run_gpt(text_prompt, temperature: float = 0, model="gpt-4-1106-preview", see
     return resp
 
 def run_LLM(model_type, prompt):
-    if model_type == "gpt":
+    if model_type == "gpt-3.5-turbo-1106" or model_type == "gpt-4o-mini":
+        return run_gpt(prompt, model=model_type)
+    elif model_type == "gpt":
         return run_gpt(prompt)
     elif model_type == "claude":
         return run_claude(prompt)
